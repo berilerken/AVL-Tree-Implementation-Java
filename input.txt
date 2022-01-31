@@ -1,0 +1,15 @@
+insert 78
+insert 49
+insert 12
+delete 44
+insert 99
+show inorder
+delete 99
+insert 34
+insert 44
+insert 45
+insert 92
+insert 23
+show preorder
+delete 34
+show postorder
